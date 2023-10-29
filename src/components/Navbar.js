@@ -21,9 +21,9 @@ function Navbar() {
     <>
       <nav className={`navbar navbar-expand-lg bg-${theme} shadow-sm`}>
         <div className="container-fluid">
-          <a className={`navbar-brand text-${textTheme}`} href="/v-type">
+          <a className={`navbar-brand text-${textTheme}`} href="/Typing-Tutor">
             <img width="30px" className="mx-2" src={logo} alt="" />
-            vType
+            Typing Tutor
           </a>
 
           <button
@@ -44,7 +44,7 @@ function Navbar() {
                 <Link
                   className={`nav-link active text-${textTheme}`}
                   aria-current="page"
-                  href="/v-type"
+                  href="/Typing-Tutor"
                 >
                   Home
                 </Link>

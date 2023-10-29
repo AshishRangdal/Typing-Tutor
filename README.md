@@ -1,11 +1,11 @@
-# v-Type
+# Typing-Tutor
 
-v-Type is a web application where you can test your typing speed.
+Typing-Tutor is a web application where you can test your typing speed.
 This web application allows users to measure their typing speed by typing a given text and tracking their accuracy and words-per-minute (WPM) score.
 
 ## Website link
 
-To visit v-Type - click here : [https://github.com/AshishRangdal/Typing-Tutor/]
+To visit Typing-Tutor - click here : [https://github.com/AshishRangdal/Typing-Tutor/]
 
 ## Features
 
@@ -31,7 +31,7 @@ git clone https://github.com/AshishRangdal/Typing-Tutor.git
 
 2. Navigate into the project directory: 
 ```
-cd v-type
+cd Typing-Tutor
 ```
 
 3.Install the dependencies:
@@ -45,4 +45,4 @@ npm start
 ```
 
 ## Contributing
-Contributions to the v-type project are welcome! If you have any ideas, suggestions, or bug reports, please submit an issue or create a pull request.
+Contributions to the Typing-Tutor project are welcome! If you have any ideas, suggestions, or bug reports, please submit an issue or create a pull request.

@@ -40,7 +40,7 @@ function Chart() {
             <Link
               className="btn btn-secondary"
               aria-current="page"
-              to="/v-type"
+              to="/Typing-Tutor"
             >
               Restart
             </Link>
